@@ -44,11 +44,11 @@ O sistema seria dividido em 2 partes, sendo elas:
 
 # Diagrama de casos de uso
 
-![Imagem do WhatsApp de 2023-10-06 à(s) 00 11 59](https://github.com/LuccaPV/UML-Classroom-FCI-fork/assets/124841314/779ae32f-3d39-452c-b861-314c317635e3)
 
 
 # Descrição dos casos de uso
 
+![Imagem do WhatsApp de 2023-10-06 à(s) 00 11 59](https://github.com/LuccaPV/UML-Classroom-FCI-fork/assets/124841314/779ae32f-3d39-452c-b861-314c317635e3)
 *&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
 
 # Diagrama de sequencia
