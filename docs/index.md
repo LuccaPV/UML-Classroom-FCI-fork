@@ -26,7 +26,7 @@
 Lucca Pivoto De Brito Padilha<br>
 Matheus Vaghetti Gomes<br>
 Iago Leite Chain Intacli<br>
-* Aluno 4
+Carlos Gabriel Alves Bertunes
 * Aluno 5
 * Aluno 6
 
@@ -44,7 +44,8 @@ O sistema seria dividido em 2 partes, sendo elas:
 
 # Diagrama de casos de uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![Imagem do WhatsApp de 2023-10-06 à(s) 00 11 59](https://github.com/LuccaPV/UML-Classroom-FCI-fork/assets/124841314/779ae32f-3d39-452c-b861-314c317635e3)
+
 
 # Descrição dos casos de uso
 
