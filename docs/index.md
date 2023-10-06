@@ -3,12 +3,8 @@
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+*Engenharia_FCI*
 </center></font>
-
->*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
-
->*Observação 2: O índice abaixo não precisa ser editado se você utilizar o Visual Studio Code com a extensão **Markdown All in One**. Essa extensão atualiza o índice automaticamente quando o arquivo é salvo.*
 
 **Conteúdo**
 
@@ -27,19 +23,21 @@
 
 # Autores
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
+Lucca Pivoto De Brito Padilha<br>
+Matheus Vaghetti Gomes<br>
+Iago Leite Chain Intacli<br>
 * Aluno 4
 * Aluno 5
 * Aluno 6
-* Aluno 7
-* Aluno 8
 
 
 # Descrição do projeto
 
-*&lt;Introdução do projeto&gt;*
+O projeto consiste em nossa equipe de profissionais da área de Sistema de Informação, desenvolvermos um Sistema de Gerenciamento das pizzarias da marca "Pizza-Express", com foco em diminuir o tempo geral de entrega de 1 hora(tempo atual) para 30 minutos(tempo ideal ou menos). A ideia seria montar lojas sem varejo, apenas designadas a montar e entregar as pizzas, e as lojas já existentes serviriam como uma central de pedidos.
+  Distribuição do tempo: 10-15 min dedicados a central processando os dados do pedido e encontrando a pizzaria mais próxima, e o restante do tempo seria dedicado a confeccionar e entregar as pizzas.
+O sistema seria dividido em 2 partes, sendo elas:
+  O perfil do cliente e o cálculo de distância utilizando os dados do cliente. O perfil do consumidor seria composto com informações pessoais do próprio, a informação que será importante extrair do perfil é o endereço, o sistema criaria um reta transversal ligando o endereço do cliente com as unidades da pizzaria para medir as distâncias, as retas transversais que possuírem as menores distâncias entre 2 unidades, serão as escolhidas para realizar a entrega, o fator decisivo será o mapeamento de ambos os caminho, retirando o tempo médio considerando trânsito, velocidade média das vias e a quantidade de pedidos designados às 2 pizzarias(como por exemplo: se uma unidade for 2 minutos mais próxima que a outra, porém ela possui uma quantidade maior de pedidos ativo, o sistema escolheria a pizzaria com menos pedidos ativos no momento da checagem, pois a diferença de tempo na entrega pode ser compensada na montagem mais rápida das pizzas).
+
 
 # Análise de requisitos funcionais e não-funcionais
 *&lt;Descrição dos requisitos&gt;*
@@ -70,8 +68,3 @@
 
 # Diagrama de implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
-
-# Referências
-
-*&lt;Lista de referências&gt;*
