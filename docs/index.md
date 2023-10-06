@@ -26,10 +26,8 @@
 Lucca Pivoto De Brito Padilha<br>
 Matheus Vaghetti Gomes<br>
 Iago Leite Chain Intacli<br>
-Carlos Gabriel Alves Bertunes
-* Aluno 5
-* Aluno 6
-
+Carlos Gabriel Alves Bertunes<br>
+Rafael Riki Nascimento de Oliveira<br>
 
 # Descrição do projeto
 
