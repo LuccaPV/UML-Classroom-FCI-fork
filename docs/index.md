@@ -44,7 +44,7 @@ O sistema seria dividido em 2 partes, sendo elas:
 
 # Diagrama de casos de uso
 
-
+![Imagem do WhatsApp de 2023-10-06 à(s) 19 02 28_683bea2b](https://github.com/LuccaPV/UML-Classroom-FCI-fork/assets/142755990/cc23c515-c72e-45bf-8f48-e5cc88c4c023)
 
 # Descrição dos casos de uso
 
