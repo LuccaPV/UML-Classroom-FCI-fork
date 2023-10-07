@@ -28,6 +28,7 @@ Matheus Vaghetti Gomes<br>
 Iago Leite Chain Intacli<br>
 Carlos Gabriel Alves Bertunes<br>
 Rafael Riki Nascimento de Oliveira<br>
+Nicolai Jeroshenko Ziminiani
 
 # Descrição do projeto
 
