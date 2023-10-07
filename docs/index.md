@@ -65,6 +65,37 @@ O sistema deve calcular e informar aos clientes o tempo estimado de entrega com 
 
 9-Gestão de Estoque:
 O sistema deve monitorar o estoque de ingredientes nas pizzarias e informar quando os níveis estiverem baixos, para que seja possível fazer pedidos de reposição.
+### Requisitos não-funcionais do Projeto<br><br>
+1-Desempenho:
+O sistema deve ser capaz de lidar com um grande volume de pedidos simultaneamente, garantindo tempos de resposta rápidos e eficiência na entrega.
+
+2-Segurança:
+O sistema deve proteger as informações pessoais dos clientes e os dados da empresa, garantindo a confidencialidade e integridade dos dados.
+
+3-Usabilidade:
+O sistema deve ser de fácil utilização para clientes e funcionários da empresa, com uma interface intuitiva e amigável.
+
+4-Disponibilidade:
+O sistema deve estar disponível 24 horas por dia, 7 dias por semana, para atender pedidos a qualquer momento.
+
+5-Escalabilidade:
+O sistema deve ser escalável para permitir a adição de mais unidades de pizzarias ou clientes sem impactar significativamente o desempenho.
+
+6-Integração com Mapas e Tráfego:
+O sistema deve ser capaz de integrar-se com serviços de mapeamento e tráfego em tempo real para calcular as estimativas de tempo de entrega com precisão.
+
+7-Monitoramento de Pedidos em Tempo Real:
+Deve haver um sistema de monitoramento em tempo real para rastrear a localização dos entregadores e atualizar os clientes sobre o status de seus pedidos.
+
+8-Backup e Recuperação de Dados:
+O sistema deve realizar backups regulares dos dados e ter um plano de recuperação de desastres em caso de falhas no sistema.
+
+9-Eficiência de Produção:
+O sistema deve otimizar a produção de pizzas nas unidades de pizzarias, considerando a carga de pedidos e a disponibilidade de ingredientes.
+
+10-Adaptabilidade ao Tráfego:
+O sistema deve ser capaz de ajustar as estimativas de tempo de entrega com base nas condições de tráfego em tempo real.
+
 
 
 # Diagrama de casos de uso
