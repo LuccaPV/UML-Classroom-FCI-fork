@@ -38,7 +38,34 @@ O sistema seria dividido em 2 partes, sendo elas:
 
 
 # Análise de requisitos funcionais e não-funcionais
-*&lt;Descrição dos requisitos&gt;*
+Requisitos Funcionais:<br>
+Cadastro de Clientes:
+O sistema deve permitir que os clientes se cadastrem, fornecendo informações pessoais, incluindo nome, endereço, número de telefone, e-mail, etc.
+
+1-Pedido de Pizza:
+Os clientes devem ser capazes de fazer pedidos de pizza através do sistema, especificando os sabores, quantidades e quaisquer instruções especiais.
+
+2-Cálculo de Distância:
+O sistema deve calcular a distância entre o endereço do cliente e as unidades da pizzaria para determinar a mais próxima.
+
+3-Seleção de Pizzaria:
+Com base no cálculo de distância, o sistema deve selecionar a pizzaria mais próxima para atender o pedido do cliente.
+
+4-Rastreamento de Pedidos:
+Os clientes devem ser capazes de rastrear o status de seus pedidos, desde o momento do pedido até a entrega.
+
+5-Gestão de Pizzarias:
+O sistema deve permitir o cadastro e gerenciamento das unidades de pizzarias, incluindo informações sobre a capacidade de produção de pizzas e pedidos ativos.
+
+6-Processamento de Pedidos:
+A central de pedidos deve processar os pedidos recebidos, considerando a proximidade das pizzarias, a capacidade de produção, e outros fatores para determinar a melhor pizzaria para atender o pedido.
+
+7-Tempo Estimado de Entrega:
+O sistema deve calcular e informar aos clientes o tempo estimado de entrega com base na pizzaria selecionada e nas condições de trânsito.
+
+8-Gestão de Estoque:
+O sistema deve monitorar o estoque de ingredientes nas pizzarias e informar quando os níveis estiverem baixos, para que seja possível fazer pedidos de reposição.
+
 
 # Diagrama de casos de uso
 
