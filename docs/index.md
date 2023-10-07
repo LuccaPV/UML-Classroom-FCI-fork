@@ -38,7 +38,7 @@ O sistema seria dividido em 2 partes, sendo elas:
 
 
 # Análise de requisitos funcionais e não-funcionais
-# Requisitos funcionais do Projeto<br><br>
+### Requisitos funcionais do Projeto<br><br>
 1-Cadastro de Clientes:
 O sistema deve permitir que os clientes se cadastrem, fornecendo informações pessoais, incluindo nome, endereço, número de telefone, e-mail, etc.
 
