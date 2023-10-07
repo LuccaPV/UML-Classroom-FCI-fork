@@ -108,7 +108,7 @@ O sistema deve ser capaz de ajustar as estimativas de tempo de entrega com base 
 
 # Diagrama de sequencia
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![WhatsApp Image 2023-10-05 at 20 42 03](https://github.com/LuccaPV/UML-Classroom-FCI-fork/assets/146880715/475a7165-a79f-4b46-8d2a-99ab46fffbef)
 
 # Diagrama de classes
 
