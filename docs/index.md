@@ -121,7 +121,8 @@ O sistema deve ser capaz de ajustar as estimativas de tempo de entrega com base 
 
 # Decisões de arquitetura
 
-*&lt;Descrever a infraestrutura escolhida para arquitetura do projeto&gt;*
+### Hardware:<br><br>
+
 
 # Diagrama de implantação
 
