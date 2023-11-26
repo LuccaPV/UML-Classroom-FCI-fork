@@ -121,14 +121,15 @@ O sistema deve ser capaz de ajustar as estimativas de tempo de entrega com base 
 
 # Decisões de arquitetura
 
-### Hardware<br><br>
+### Hardware<br>
 #### 1.Servidores:
 Servidores para hospedar a aplicação web e o banco de dados.
 Servidores dedicados para processamento de pedidos e cálculos de distância em tempo real.
 #### 2.Dispositivos de Entrada:
 Terminais de pedidos para as lojas de montagem.
 Dispositivos para entrada de dados do perfil do cliente nas unidades de pedidos.
-### Software<br><br>
+
+### Software<br>
 #### 1.Aplicação Web:
 
 Desenvolvida utilizando tecnologias como HTML, CSS, JavaScript.
@@ -147,7 +148,8 @@ Sistema de Geolocalização:
 
 #### 4.Integração com serviços de mapas para cálculos precisos de distâncias.
 Algoritmos para mapeamento de caminhos considerando variáveis como trânsito e carga de pedidos.
-### Comunicação<br><br>
+
+### Comunicação<br>
 #### 1.APIs:
 Estabelecer APIs para comunicação entre o módulo de perfil do cliente e o cálculo de distância.
 Integração com serviços de geolocalização através de APIs.
@@ -155,5 +157,5 @@ Integração com serviços de geolocalização através de APIs.
 Ferramentas de comunicação interna para a equipe de desenvolvimento.
 Canais de feedback entre lojas de montagem e central de pedidos.
 
-### Diagrama de implantação
+# Diagrama de implantação
 
