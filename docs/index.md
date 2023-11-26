@@ -157,5 +157,27 @@ Integração com serviços de geolocalização através de APIs.
 Ferramentas de comunicação interna para a equipe de desenvolvimento.
 Canais de feedback entre lojas de montagem e central de pedidos.
 
+### Arquitetura Geral<br>
+#### Arquitetura em Camadas:
+
+#### Separação clara entre a interface do usuário, a lógica de negócios e o banco de dados.
+Facilita a manutenção e escalabilidade do sistema.
+Escalabilidade:
+
+#### Previsão para o aumento do número de lojas e clientes.
+Possibilidade de distribuir cargas de trabalho para garantir um desempenho consistente.
+#### Segurança:
+Implementação de medidas de segurança para proteger dados sensíveis dos clientes e informações da empresa.
+
+## Equipe de Desenvolvimento<br>
+### Papéis e Responsabilidades:
+
+#### Identificação clara das funções de cada integrante na equipe.
+Designação de líder de projeto, desenvolvedores, e especialistas em banco de dados.
+Colaboração:
+
+#### Utilização de ferramentas de controle de versão (Git, por exemplo) para colaboração eficiente.
+Reuniões regulares para discussão de progresso, desafios e próximos passos.
+
 # Diagrama de implantação
 
