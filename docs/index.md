@@ -121,14 +121,39 @@ O sistema deve ser capaz de ajustar as estimativas de tempo de entrega com base 
 
 # Decisões de arquitetura
 
-## Hardware:<br><br>
+## Hardware<br><br>
 ### 1.Servidores:
 Servidores para hospedar a aplicação web e o banco de dados.
 Servidores dedicados para processamento de pedidos e cálculos de distância em tempo real.
 ### 2.Dispositivos de Entrada:
 Terminais de pedidos para as lojas de montagem.
 Dispositivos para entrada de dados do perfil do cliente nas unidades de pedidos.
+## Software<br><br>
+### 1.Aplicação Web:
 
+Desenvolvida utilizando tecnologias como HTML, CSS, JavaScript.
+Módulos distintos para o perfil do cliente e cálculos de distância.
+Interface intuitiva para facilitar a entrada de dados e o gerenciamento de pedidos.
+Backend:
+
+### 2.Desenvolvido em uma linguagem de programação como Python, Java, ou outra adequada.
+Responsável por processar os dados do cliente, calcular distâncias, e gerenciar pedidos.
+Algoritmos eficientes para encontrar a pizzaria mais próxima considerando trânsito, velocidade média e carga de pedidos.
+Banco de Dados:
+
+### 3.Armazenamento dos perfis dos clientes, informações de pedidos, e dados das pizzarias.
+Utilização de um banco de dados relacional para garantir integridade e consistência dos dados.
+Sistema de Geolocalização:
+
+### 4.Integração com serviços de mapas para cálculos precisos de distâncias.
+Algoritmos para mapeamento de caminhos considerando variáveis como trânsito e carga de pedidos.
+## Comunicação<br><br>
+### 1.APIs:
+Estabelecer APIs para comunicação entre o módulo de perfil do cliente e o cálculo de distância.
+Integração com serviços de geolocalização através de APIs.
+### 2.Comunicação Interpessoal:
+Ferramentas de comunicação interna para a equipe de desenvolvimento.
+Canais de feedback entre lojas de montagem e central de pedidos.
 
 # Diagrama de implantação
 
