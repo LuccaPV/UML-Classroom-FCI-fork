@@ -121,7 +121,13 @@ O sistema deve ser capaz de ajustar as estimativas de tempo de entrega com base 
 
 # Decisões de arquitetura
 
-### Hardware:<br><br>
+## Hardware:<br><br>
+### 1.Servidores:
+Servidores para hospedar a aplicação web e o banco de dados.
+Servidores dedicados para processamento de pedidos e cálculos de distância em tempo real.
+### 2.Dispositivos de Entrada:
+Terminais de pedidos para as lojas de montagem.
+Dispositivos para entrada de dados do perfil do cliente nas unidades de pedidos.
 
 
 # Diagrama de implantação
