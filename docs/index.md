@@ -181,3 +181,4 @@ Reuniões regulares para discussão de progresso, desafios e próximos passos.
 
 # Diagrama de implantação
 
+![image](https://github.com/LuccaPV/UML-Classroom-FCI-fork/assets/124841314/a7650ed5-5f50-4f6c-aa50-3ee5cdc56101)
