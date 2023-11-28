@@ -116,7 +116,8 @@ O sistema deve ser capaz de ajustar as estimativas de tempo de entrega com base 
 ![diagramaClasse drawio](https://github.com/LuccaPV/UML-Classroom-FCI-fork/assets/146880715/d7a192fc-53ff-4cb4-bb05-291b1be93e74)
 
 # Diagrama de Componentes
-![ComponentDiagram1](https://github.com/LuccaPV/UML-Classroom-FCI-fork/assets/146880715/0ad8ea22-8bc4-4cc5-9243-13ab5ec84643)
+![DIagramaShow](https://github.com/LuccaPV/UML-Classroom-FCI-fork/assets/146880715/e64fd64f-0b7b-4965-8d35-08a15d635825)
+
 # Decisões de arquitetura
 
 ### Hardware<br>
