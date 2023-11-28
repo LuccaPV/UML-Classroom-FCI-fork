@@ -113,8 +113,7 @@ O sistema deve ser capaz de ajustar as estimativas de tempo de entrega com base 
 
 # Diagrama de classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*[Uploading diagramaClasse.drawio…]()
-
+![WhatsApp Image 2023-11-27 at 20 29 48](https://github.com/LuccaPV/UML-Classroom-FCI-fork/assets/146880715/5d1c2a35-7771-4ea5-81ab-371de6d7dac5)
 
 # Diagrama de Componentes
 
