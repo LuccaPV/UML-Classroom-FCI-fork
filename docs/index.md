@@ -113,7 +113,8 @@ O sistema deve ser capaz de ajustar as estimativas de tempo de entrega com base 
 
 # Diagrama de classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*[Uploading diagramaClasse.drawio…]()
+
 
 # Diagrama de Componentes
 
