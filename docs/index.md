@@ -116,32 +116,7 @@ O sistema deve ser capaz de ajustar as estimativas de tempo de entrega com base 
 ![diagramaClasse drawio](https://github.com/LuccaPV/UML-Classroom-FCI-fork/assets/146880715/d7a192fc-53ff-4cb4-bb05-291b1be93e74)
 
 # Diagrama de Componentes
-[digraph G {
-	Cliente [label="<<Component>>
-Cliente
-----
-[IRegistroCliente]
-[IPedidoCliente]"]
-	Pedido [label="<<Component>>
-Pedido
-----
-[IProcessamentoPedido]
-[IRastreamentoPedido]"]
-	Pizzaria [label="<<Component>>
-Pizzaria
-----
-[IGerenciamentoPizzaria]"]
-	SistemaDePedidos [label="<<Component>>
-SistemaDePedidos
-----
-[ISelecaoPizzaria]"]
-	GerenciadorDeEstoque [label="<<Component>>
-GerenciadorDeEstoque
-----
-[IMonitoramentoEstoque]"]
-	Entrega [label="<<Component>>
-Entrega
-----
+###### AAAAAAAAAAAAAAAAAAAAA
 [ICalculoEntrega]"]
 	Pizza [label="<<Component>>
 Pizza"]
