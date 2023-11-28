@@ -1,4 +1,4 @@
-![pizzaria_system_component_diagram](https://github.com/LuccaPV/UML-Classroom-FCI-fork/assets/146880715/d6d904a4-35a2-42db-a332-b2676055992a)<h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
+<h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
 <h3><a href= "https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Sistemas de Informação</a></h3>
 
 
