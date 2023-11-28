@@ -1,4 +1,4 @@
-<h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
+![pizzaria_system_component_diagram](https://github.com/LuccaPV/UML-Classroom-FCI-fork/assets/146880715/d6d904a4-35a2-42db-a332-b2676055992a)<h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
 <h3><a href= "https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Sistemas de Informação</a></h3>
 
 
@@ -116,8 +116,60 @@ O sistema deve ser capaz de ajustar as estimativas de tempo de entrega com base 
 ![diagramaClasse drawio](https://github.com/LuccaPV/UML-Classroom-FCI-fork/assets/146880715/d7a192fc-53ff-4cb4-bb05-291b1be93e74)
 
 # Diagrama de Componentes
+[digraph G {
+	Cliente [label="<<Component>>
+Cliente
+----
+[IRegistroCliente]
+[IPedidoCliente]"]
+	Pedido [label="<<Component>>
+Pedido
+----
+[IProcessamentoPedido]
+[IRastreamentoPedido]"]
+	Pizzaria [label="<<Component>>
+Pizzaria
+----
+[IGerenciamentoPizzaria]"]
+	SistemaDePedidos [label="<<Component>>
+SistemaDePedidos
+----
+[ISelecaoPizzaria]"]
+	GerenciadorDeEstoque [label="<<Component>>
+GerenciadorDeEstoque
+----
+[IMonitoramentoEstoque]"]
+	Entrega [label="<<Component>>
+Entrega
+----
+[ICalculoEntrega]"]
+	Pizza [label="<<Component>>
+Pizza"]
+	IRegistroCliente [label="[IRegistroCliente]
+<<Interface>>" shape=ellipse]
+	IPedidoCliente [label="[IPedidoCliente]
+<<Interface>>" shape=ellipse]
+	IProcessamentoPedido [label="[IProcessamentoPedido]
+<<Interface>>" shape=ellipse]
+	IRastreamentoPedido [label="[IRastreamentoPedido]
+<<Interface>>" shape=ellipse]
+	IGerenciamentoPizzaria [label="[IGerenciamentoPizzaria]
+<<Interface>>" shape=ellipse]
+	ISelecaoPizzaria [label="[ISelecaoPizzaria]
+<<Interface>>" shape=ellipse]
+	IMonitoramentoEstoque [label="[IMonitoramentoEstoque]
+<<Interface>>" shape=ellipse]
+	ICalculoEntrega [label="[ICalculoEntrega]
+<<Interface>>" shape=ellipse]
+	Cliente -> Pedido [label="realiza pedido"]
+	Pedido -> Pizzaria [label="é atendido por"]
+	SistemaDePedidos -> Pizzaria [label=seleciona]
+	Pizzaria -> GerenciadorDeEstoque [label=utiliza]
+	Pedido -> Pizza [label="contém"]
+	SistemaDePedidos -> Pedido [label=processa]
+}
+Uploading pizzaria_system_component_diagram.png…]()
 
-*&lt;Diagrama para exibir a relação estrutural dos componentes de um sistema de software
 
 # Decisões de arquitetura
 
