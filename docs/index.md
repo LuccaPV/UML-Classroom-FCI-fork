@@ -117,34 +117,6 @@ O sistema deve ser capaz de ajustar as estimativas de tempo de entrega com base 
 
 # Diagrama de Componentes
 ###### AAAAAAAAAAAAAAAAAAAAA
-[ICalculoEntrega]"]
-	Pizza [label="<<Component>>
-Pizza"]
-	IRegistroCliente [label="[IRegistroCliente]
-<<Interface>>" shape=ellipse]
-	IPedidoCliente [label="[IPedidoCliente]
-<<Interface>>" shape=ellipse]
-	IProcessamentoPedido [label="[IProcessamentoPedido]
-<<Interface>>" shape=ellipse]
-	IRastreamentoPedido [label="[IRastreamentoPedido]
-<<Interface>>" shape=ellipse]
-	IGerenciamentoPizzaria [label="[IGerenciamentoPizzaria]
-<<Interface>>" shape=ellipse]
-	ISelecaoPizzaria [label="[ISelecaoPizzaria]
-<<Interface>>" shape=ellipse]
-	IMonitoramentoEstoque [label="[IMonitoramentoEstoque]
-<<Interface>>" shape=ellipse]
-	ICalculoEntrega [label="[ICalculoEntrega]
-<<Interface>>" shape=ellipse]
-	Cliente -> Pedido [label="realiza pedido"]
-	Pedido -> Pizzaria [label="é atendido por"]
-	SistemaDePedidos -> Pizzaria [label=seleciona]
-	Pizzaria -> GerenciadorDeEstoque [label=utiliza]
-	Pedido -> Pizza [label="contém"]
-	SistemaDePedidos -> Pedido [label=processa]
-}
-Uploading pizzaria_system_component_diagram.png…]()
-
 
 # Decisões de arquitetura
 
